@@ -86,7 +86,12 @@ a.aprender-mas{
     text-decoration: none;
     text-shadow: 3px 7px 0 #000;
     border-radius: 10px;
-    background: linear-gradient(to top, #319b41, #0d5c25);
+   background: linear-gradient(
+  135deg,
+  #FF9800 0%,
+  #FF6F00 50%,
+  #FFB300 100%
+);
     box-shadow: 0 8px 0 0 #20732f,
                 0 0 25px 5px #fff;
 } 
